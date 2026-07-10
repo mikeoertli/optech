@@ -1,0 +1,27 @@
+# -- Main Menu --
+# https://jpanther.github.io/congo/docs/configuration/#menus
+
+[[main]]
+  name = "Archive"
+  pageRef = "news"
+  weight = 10
+
+[[main]]
+  name = "Recommendations"
+  pageRef = "tech-picks"
+  weight = 20
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 30
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20

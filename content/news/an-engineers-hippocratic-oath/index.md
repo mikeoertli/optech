@@ -1,0 +1,25 @@
+---
+title: "An Engineer's Hippocratic Oath"
+date: "2016-10-25T13:42:37-07:00"
+slug: "an-engineers-hippocratic-oath"
+aliases: ["/news/2016/10/25/an-engineers-hippocratic-oath"]
+lastmod: "2016-10-25T15:36:01-07:00"
+---
+
+For all of modern history, engineers of many disciplines have needed a certification to practice their trade. This makes sense — you want bridges to withstand wind, you want a city's sewage system to work correctly, and you don't want airplanes falling out of the sky. In most cases, this is the <a href="https://www.nspe.org/resources/licensure/what-pe" target="_blank">Professional Engineer (PE) License</a>. It requires industry experience and a rigorous test; the result is that your bridges, cars, and cities are safe.
+
+Computer engineers and developers do not have a similar certification, or at least not one that is required to ship hardware or software that can drastically impact millions of people. This has pros and cons. The pros include no bottleneck in the system, a much lower barrier to entry resulting in a wider range of more exciting ideas, fewer opportunities for corruption or prejudice to preclude someone from participating, and more. 
+
+There are cons, too, however. These include a hijacked botnet of Internet of Things (IoT) devices being used to effectively <a href="https://krebsonsecurity.com/2016/10/hacked-cameras-dvrs-powered-todays-massive-internet-outage/" target="_blank">take down the internet</a>.
+
+People will follow incentives, this is unavoidable when looked at on a macro level. When people have the choice of spending nontrivial sums of money or getting what they perceive is the same value from a cheap (or free) alternative, the masses will opt for the cheaper version. To make matters worse, some of the decisions are largely out of consumers' hands. In the case of a set top box from your cable company (hacked DVRs were behind a sizable portion of the DDoS attack), you might not even have any real alternative choices (yes, there is TiVo, but most people use the cable company's setup process/services). Companies follow incentives just like individuals, so if they can save a few bucks per DVR unit their margins on your rental go up substantially.
+
+As with cheaper options of nearly anything, the similarities to the more expensive choices are all skin deep (if that). The security is a joke, in many cases these hacked DVR units had hard coded usernames and passwords, or ports are left open, or there's a public pinging back to China to check for software updates without verifying the response is valid, or any number of other glaring instances of engineering negligence. Not only are products of half-assed engineering proliferating, no one knows what to do about it and most consumers don't even know, let alone care.
+
+This attack didn't cost lives. Not yet. But as more of our lives moves toward having internet enabled components like cars, pacemakers, thermostats (imagine a thermostat being disabled overnight and a baby or very old person freezes to death in a bad storm), this lackluster security can and will cost lives.
+
+It remains true that you get what you pay for. If you know how to telnet into your cheap IP camera and close the ports that were left open by the manufacturer, then by all means, save \$20 on the device. Otherwise, anyone else should really consider spending a bit more money and putting your trust in a company with a solid reputation whenever possible. The responsibility lies with consumers, and while liberating for those that know what they're doing, this is damning for those that don't.
+
+There isn't an easy solution on the engineering or product side, unfortunately. The best one I can come up with are optional certification tiers for connected devices, but history has shown that consumers will still choose the free uncertified version often enough that there will always be enough hackable devices to perform a similar attack. At least with certification tiers, we can try to proliferate knowledge of the risks of buying a lower tier of device, though this is far from a cure-all solution. A engineer's oath, synonymous to the hippocratic oath, is wonderful in theory, but in practice, mandating such a thing is at odds with the very free and open nature of the internet that makes it so incredible. 
+
+**Update**: <a href="https://twitter.com/TheAmazingRando" target="_blank">Paul Sadauskas</a> points out that a set of requirements akin to the <a href="http://www.ul.com/marks/ul-listing-and-classification-marks/promotion-and-advertising-guidelines/specific-guidelines-and-rules/" target="_blank">UL Certification</a> requirements could be imposed on the software and firmware loaded on hardware products imported into the country in question (I am writing this from the perspective of an American in the continental United States.) This isn't foolproof, since hardware or firmware can be changed after the fact, but it would make a sizable dent by making the default "this will never get updated or configured" devices less susceptible to more commonplace vulnerabilities.

@@ -2,6 +2,11 @@
 # https://jpanther.github.io/congo/docs/configuration/#menus
 
 [[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 5
+
+[[main]]
   name = "Archive"
   pageRef = "news"
   weight = 10

@@ -1,7 +1,7 @@
 ---
 title: "OpTe.ch"
 description: "Consulting, mentoring, and custom software solutions from Mike Oertli in Denver, CO."
-aliases: ["/consulting"]
+aliases: ["/consulting", "/searchsite"]
 ---
 
 > "People can help you in many ways throughout life, but there are two things nobody can give you: curiosity and drive. They must be self-supplied.

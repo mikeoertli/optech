@@ -12,7 +12,7 @@ aliases: ["/consulting", "/searchsite"]
 >
 > There are many recipes for success. There is no single way to win. But nearly all recipes include two ingredients: curiosity and drive."
 >
-> — James Clear in his 3-2-1 newsletter, 25 April 2024
+> - James Clear in his 3-2-1 newsletter, 25 April 2024
 
 ## Consulting and Mentoring
 

@@ -30,13 +30,13 @@ Then open <http://localhost:1313>. The server watches for changes and live-reloa
 press `Ctrl+C` to stop it.
 
 To preview from another device on the tailnet (e.g. an iPad while this runs on
-`maxbookpro`):
+`mylaptop`):
 
 ```sh
-hugo server --bind 0.0.0.0 --baseURL http://maxbookpro:1313/ --appendPort=false
+hugo server --bind 0.0.0.0 --baseURL http://mylaptop:1313/ --appendPort=false
 ```
 
-Then open <http://maxbookpro:1313> on the other device.
+Then open <http://mylaptop:1313> on the other device.
 
 ## Editing content
 

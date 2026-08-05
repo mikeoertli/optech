@@ -6,7 +6,7 @@ showDate: false
 showReadingTime: false
 ---
 
-This page is for sharing some of my picks. Podcasts, products, apps, and whatever else I think is worth sharing.
+This page is for sharing some of my picks. Podcasts, products, apps, and whatever else I think is worth sharing, it is not updated as often as it should be 🙂.
 
 ## Podcasts
 

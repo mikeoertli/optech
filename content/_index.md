@@ -4,13 +4,13 @@ description: "Consulting, mentoring, and custom software solutions from Mike Oer
 aliases: ["/consulting", "/searchsite"]
 ---
 
-> "People can help you in many ways throughout life, but there are two things nobody can give you: curiosity and drive. They must be self-supplied.
+> People can help you in many ways throughout life, but there are two things nobody can give you: curiosity and drive. They must be self-supplied.
 >
 > If you are not interested and curious, all the information in the world can be at your fingertips, but it will be relatively useless. If you are not motivated and driven, whatever connections or opportunities are available to you will be rendered inert.
 >
 > Now, you won't feel curious and driven about every area of life, and that's fine. But it really pays to find something that lights you up. This is one of the primary quests of life: to find the thing that ignites your curiosity and drive.
 >
-> There are many recipes for success. There is no single way to win. But nearly all recipes include two ingredients: curiosity and drive."
+> There are many recipes for success. There is no single way to win. But nearly all recipes include two ingredients: curiosity and drive.
 >
 > - James Clear in his 3-2-1 newsletter, 25 April 2024
 

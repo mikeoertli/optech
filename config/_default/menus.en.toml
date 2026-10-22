@@ -7,14 +7,19 @@
   weight = 5
 
 [[main]]
-  name = "Archive"
-  pageRef = "news"
+  name = "Projects"
+  pageRef = "projects"
   weight = 10
 
 [[main]]
   name = "Recommendations"
   pageRef = "tech-picks"
   weight = 20
+
+[[main]]
+  name = "Archive"
+  pageRef = "news"
+  weight = 25
 
 [[main]]
   name = "Contact"

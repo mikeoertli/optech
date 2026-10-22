@@ -1,0 +1,23 @@
+.project-heading {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-block: 2rem 1rem;
+}
+
+.project-heading > a {
+  flex: 0 0 4rem;
+}
+
+.project-heading img {
+  display: block;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  margin: 0;
+}
+
+.project-heading h3 {
+  min-width: 0;
+  margin: 0;
+}

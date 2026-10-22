@@ -43,9 +43,10 @@ Then open <http://mylaptop:1313> on the other device.
 | What | Where |
 |---|---|
 | Homepage / consulting pitch | `content/_index.md` |
+| Projects | `content/projects/index.md` |
 | Recommendations | `content/tech-picks/index.md` |
-| Contact page (Formspree form) | `content/contact.md` |
 | Blog archive posts | `content/news/<slug>/index.md` |
+| Contact page (Formspree form) | `content/contact.md` |
 | Author name/photo/links, site title | `config/_default/languages.en.toml` |
 | Theme behavior (search, dark mode, lists) | `config/_default/params.toml` |
 | Header/footer menus | `config/_default/menus.en.toml` |

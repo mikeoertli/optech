@@ -35,7 +35,9 @@ How do I help? I combine the value of my "outsider's opinion" with my passion fo
 
 ### Custom Software Solutions
 
-I am a software engineer by trade with experience with designing software solutions from scratch. Additionally, I have experience with integrating disparate systems, extract, transform, and loading data into coherent, intuitive solutions for users. Most of this experience has been in the context of software defined radios (SDRs), but I enjoy addressing a wide range of challenges that can be solved with software. More recently, I've been creating custom apps for niche situations that are unique to my family, it enables quick solutions that meet unique requirements. I even threw together a [math practice worksheet generator](https://mikeoertli.github.io/multiplication-worksheet-generator) for the way my kids' school does multiplication tests/practice.
+I am a software engineer by trade with experience with designing software solutions from scratch. I'd love to create the perfect iOS/Android app, website, or desktop application to address the needs of YOUR business.
+
+Additionally, I have experience with integrating disparate systems, extract, transform, and loading data into coherent, intuitive solutions for users. Most of this experience has been in the context of software defined radios (SDRs), but I enjoy addressing a wide range of challenges that can be solved with software. More recently, I've been creating custom apps for niche situations that are unique to my family, it enables quick solutions that meet unique requirements. I even threw together a [math practice worksheet generator](https://mikeoertli.github.io/multiplication-worksheet-generator) for the way my kids' school does multiplication tests/practice.
 
 ### Mentoring
 

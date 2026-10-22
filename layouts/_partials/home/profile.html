@@ -1,0 +1,7 @@
+<article class="flex flex-col items-start text-left">
+  {{ partial "profile.html" (dict "Page" . "align" "start") }}
+  <section class="prose w-full dark:prose-invert">{{ .Content | emojify }}</section>
+</article>
+<section>
+  {{ partial "recent-articles.html" . }}
+</section>

@@ -14,6 +14,15 @@ aliases: ["/consulting", "/searchsite"]
 >
 > - James Clear in his 3-2-1 newsletter, 25 April 2024
 
+## Projects
+
+Check out thew new [Projects](https://www.opte.ch/projects/) gallery for some of my latest side projects!
+
+For example, [here](https://github.com/mikeoertli/kube-resource-monitor) is `krm` (`kube-resource-monitor`). I use it every day!
+
+<a href="https://raw.githubusercontent.com/mikeoertli/kube-resource-monitor/HEAD/assets/krm-demo.gif"><img src="https://raw.githubusercontent.com/mikeoertli/kube-resource-monitor/HEAD/assets/krm-demo.gif" alt="Kubernetes Resource Monitor demo showing resource usage and workload details" loading="lazy" decoding="async" style="width: 100%; height: auto;"></a>
+
+
 ## Consulting and Mentoring
 
 I am available for consulting! This includes being a startup advisor, helping you to optimize your business, discover how (or if) artificial intelligence could be saving you money, or identify and create custom software solutions. I have been a benefactor of mentoring and am happy to pay it forward, particularly to those that show curiosity and drive.
